@@ -1,0 +1,13 @@
+$color: red;
+$color1: blue;
+$font-size: 14px;
+$font-size1: 18px;
+
+ul {
+  color: $color;
+  font-size: $font-size;
+}
+ol {
+  color: $color1;
+  font-size: $font-size1;
+}
